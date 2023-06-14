@@ -42,7 +42,7 @@ Este é um formulário HTML para agendar uma mentoria. Ele permite que os usuár
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ZBB12qkkLOw7jP4AGIV2MQ/Explorer-Recriar-My?type=design&node-id=0-1&t=QAI1hrgyuw7ns5HW-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/XdJuGZkgzQtDxJzqSo465O/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-My?type=design&node-id=0%3A1&t=EIsxqmB8wMToBsUV-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
