@@ -50,4 +50,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Faça Networking e vamos nos conectar através [Linkedin](https://discord.gg/rocketseat) e [Instagram](https://www.instagram.com/marcello_consorcios)
+Faça Networking e vamos nos conectar através [Linkedin](https://www.linkedin.com/in/marcello-ferreira-b520531a8/) e [Instagram](https://www.instagram.com/marcello_consorcios)
